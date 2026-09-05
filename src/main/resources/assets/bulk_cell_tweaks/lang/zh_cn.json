@@ -1,0 +1,9 @@
+{
+  "block.bulk_cell_tweaks.bulk_cell_marker": "大宗存储元件标记器",
+  "itemGroup.bulk_cell_tweaks": "Bulk Cell Tweaks",
+  "gui.bulk_cell_tweaks.BulkCellMarker": "大宗存储元件标记器",
+  "gui.bulk_cell_tweaks.prevPage": "上一页",
+  "gui.bulk_cell_tweaks.nextPage": "下一页",
+  "gui.bulk_cell_tweaks.autoMark": "按数量自动标记并转移",
+  "gui.bulk_cell_tweaks.page": "第%s/%s页"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bulk_cell_tweaks:block/bulk_cell_marker"
+  }
+}

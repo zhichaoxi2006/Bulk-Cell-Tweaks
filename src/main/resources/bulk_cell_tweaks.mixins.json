@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.zhichaoxi.bulk_cell_tweaks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

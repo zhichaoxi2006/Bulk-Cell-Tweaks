@@ -1,0 +1,9 @@
+{
+  "block.bulk_cell_tweaks.bulk_cell_marker": "Bulk Cell Marker",
+  "itemGroup.bulk_cell_tweaks": "Bulk Cell Tweaks",
+  "gui.bulk_cell_tweaks.BulkCellMarker": "Bulk Cell Marker",
+  "gui.bulk_cell_tweaks.prevPage": "Previous Page",
+  "gui.bulk_cell_tweaks.nextPage": "Next Page",
+  "gui.bulk_cell_tweaks.autoMark": "Auto-Mark by Amount & Transfer",
+  "gui.bulk_cell_tweaks.page": "Page %s/%s"
+}
