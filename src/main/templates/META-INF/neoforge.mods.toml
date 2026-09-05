@@ -16,7 +16,10 @@ displayName="${mod_name}" #mandatory
 authors="zhichaoxi2006"
 
 description='''
-Example mod description.
+Bulk Cell Tweaks adds the Bulk Cell Marker, a ME network block for managing the filters of every
+MEGA Cells Bulk Cell mounted in your network — drives, ME chests, and cell docks alike — from a
+single GUI. Mark cells by hand, auto-mark all empty cells by the amount of items in your network,
+transfer items into their matching bulk cells, and install or remove compression cards on the spot.
 '''
 
 [[mixins]]
